@@ -6,7 +6,6 @@
 ![Forks](https://img.shields.io/github/forks/decontextai/decontext-protocol)
 
 🚀 Open, modular, and fully decentralized context infrastructure for agent-native Web3.
-
 ---
 
 ## 🌐 What is Decontext?
