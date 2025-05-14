@@ -15,7 +15,6 @@ Decontext enables trustless, verifiable, and composable **Model Contexts** on-ch
 It transforms centralized MCPs into a decentralized public good, unlocking a new generation of agent-native dApps.
 
 ---
-
 ## 🧠 Core Features
 
 - ✅ DMCP (Decentralized Model Context Protocol)
